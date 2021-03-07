@@ -1,4 +1,4 @@
 # BookName
-BookSubtitle, Edition, Pages, LinkToAmazon
+BookSubtitle, Edition, Pages, LinkToAmazon  
 *Author(s)*  
   
